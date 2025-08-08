@@ -27,3 +27,4 @@ After installation, import and start using the components in your project:
 ```tsx
 import { PromptInput } from "@/components/ui/prompt-input"
 ```
+
